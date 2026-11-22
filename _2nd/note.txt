@@ -1,0 +1,10 @@
+Errors / Improvements Notes
+Did not declare the loop variable with let.
+Repeated the same object property access multiple times.
+Used unnecessarily complex conditional ranges.
+Inconsistent naming convention for student names.
+Used an array for grades where a simpler approach would suffice.
+Function name could be more descriptive.
+Code could be improved by storing the student's score in a variable before performing comparisons.
+Some conditions contained redundant checks that were already covered by previous conditions.
+Focused on functionality more than code readability and maintainability.
